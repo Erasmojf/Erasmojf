@@ -39,9 +39,7 @@ Welcome to my Github page! I am Erasmo J.F , I am a mobile application developer
 </p>
 
 
-
-
-
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/Erasmojf/Erasmojf/blob/master/cover_image.jpg)</sub>
 
 
 
