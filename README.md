@@ -24,10 +24,9 @@ Welcome to my Github page! I am Erasmo J.F , I am a mobile application developer
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Erasmojf&show_icons=true&hide_border=true" />
+
 	
 	
-<code><img width="10%" src="![image](https://user-images.githubusercontent.com/30526854/110190108-6d131900-7e00-11eb-90df-2bcc8fcb8182.png)
-https://medium.com/flutter-community/functional-bits-in-flutter-dc0881a99161"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
