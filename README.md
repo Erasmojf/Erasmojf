@@ -22,10 +22,11 @@ Welcome to my Github page! I am Erasmo J.F , I am a mobile application developer
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
+
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Erasmojf&show_icons=true&hide_border=true" />
 
-	
+	<p> Android Studio, Flutter </p>
 
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/Erasmojf/Erasmojf/blob/master/cover_image.jpg)</sub>
