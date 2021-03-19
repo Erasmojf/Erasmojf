@@ -24,16 +24,3 @@ Welcome to my Github page! I am Erasmo J.F , I am a mobile application developer
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Erasmojf&show_icons=true&hide_border=true" />
 
 	Android Studio, Flutter 
-
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/Erasmojf/Erasmojf/blob/master/cover_image.jpg)</sub>
-
-
-
-
-
-
-
-
-
-
