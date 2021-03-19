@@ -16,7 +16,7 @@ Welcome to my Github page! I am Erasmo J.F , I am a mobile application developer
 - Waking up earlier to make good use of the day
 - Coding every day
 - Exercising 5 days a week
-- Improving my CV with some education apart from university
+
 
 #### :computer: Programming languages and tools: 
 
