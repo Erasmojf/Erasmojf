@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Erasmo and I am a mobile application developer, I live in Brazil, I develop android, flutter and SwiftUI applications
+### My name is Erasmo and I am a mobile application developer, I live in Brazil, I develop  Swift,SwiftUI, Android and Flutter applications
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Erasmojf/Erasmojf/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erasmo-jose-fonseca-da-silva-026639142/)
